@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 
 <!--
 **Ml1199/Ml1199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +21,6 @@ I enjoy working with vairous platforms and technologies, such as the following:
 SQL
 Tableau
 
-Connect With Me
+## Connect With Me  
 melanie224k@gmail.com  
 https://www.linkedin.com/in/mmelanielee/ 
