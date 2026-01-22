@@ -22,5 +22,5 @@ SQL
 Tableau
 
 Connect With Me
-melanie224k@gmail.com 
+melanie224k@gmail.com  
 https://www.linkedin.com/in/mmelanielee/ 
