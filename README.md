@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Melanie Lee. As an aspiring analyst with strong Data Analytics, Project Management, Customer Research, and Business Analysis skills, I enjoy uncovering insights from data to solve real business problems. My goal is to deliver actionable insights that drive informed decision-making while building a strong foundation in both data-driven decision making, business operations and data storytelling.
+
+I enjoy working with vairous platforms and technologies, such as the following:
+SQL
+Tableau
+
+Connect With Me
+melanie224k@gmail.com 
+https://www.linkedin.com/in/mmelanielee/ 
