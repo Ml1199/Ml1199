@@ -30,9 +30,9 @@ I'm Mel, a Franklin University student studying for a Master of Science in Infor
 <div id="badges">
   <img height="50" src="https://camo.githubusercontent.com/17f8c6b5aea674b3a28cfb961815b469b4a398f0c584d82d4c9af79c2975e5da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f722d2532333237364443332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d72266c6f676f436f6c6f723d7768697465"/>
   <img src="https://img.shields.io/badge/Tableau-orange?logo=tableau&logoColor=white&style=for-the-badge"/> <!-- TABLEAU -->
-  <img src="https://img.shields.io/badge/Python-teal?logo=python&logoColor=white&style=for-the-badge"/> <!-- PYTHON -->
   <img src="https://img.shields.io/badge/MySQL-black?logo=mysql&logoColor=white&style=for-the-badge"/> <!-- MYSQL -->
   <img src="https://img.shields.io/badge/SQLite-darkblue?logo=sqlite&logoColor=white&style=for-the-badge"/> <!-- SQLITE -->
+  <img src="https://img.shields.io/badge/Python-teal?logo=python&logoColor=white&style=for-the-badge"/> <!-- PYTHON -->
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/> <!-- GITHUB -->
   <img src="https://img.shields.io/badge/Jira-darkblue?logo=jira&logoColor=white&style=for-the-badge"/> <!-- JIRA -->
   <img src="https://img.shields.io/badge/PowerPoint-brown?logo=powerpoint&logoColor=white&style=for-the-badge"/> <!-- POWERPOINT -->
