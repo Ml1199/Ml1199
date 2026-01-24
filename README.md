@@ -72,6 +72,38 @@ For further projects showcasing these skills, visit my portfolio on:
     <img height="50" src="https://img.shields.io/badge/Notion-black?logo=notion&logoColor=white&style=for-the-badge"/>
   </a>
 
+
+
+## About Me
+
+```yaml
+*
+name: Mel L
+located_in: Ohio, US
+education:
+  {
+    "Master's in Information Systems"
+  }
+fields_of_interests:
+  {
+    "Data Analysis",
+    "Business Analysis",
+    "Product Management",
+    "Business Operations",
+  }
+experience:
+  {
+    "Intern - Business Data Analyst", 
+    "Intern - Information Technology Service Desk", 
+    "Volunteer - Operations Manager", 
+  }
+currently learning: {"PowerBI", "React Native"}
+2026 Goals: {"Complete 15+ Projects and learn at least 5 new technologies."}
+hobbies: {"Gaming", "Reading", "Bookbinding", "Hiking", "Art", "Digital Design", "Volunteering" }
+*
+```
+
+
 ## Find Me At ##
 
 <div id="socials">
