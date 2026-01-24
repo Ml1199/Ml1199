@@ -78,7 +78,7 @@ I'm Melanie Lee, a Franklin University student studying for a Master of Science 
 
 ```yaml
 name: Mel L
-located_in: Ohio, US
+located_in: US
 education:
   {
     "Master's in Information Systems"
