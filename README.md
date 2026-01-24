@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 
 <img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"/>
 
+
+WAS ABLE TO UPDATE GITHUB WITH THE FOLLOWING LINK: https://www.sitepoint.com/github-profile-readme/
+ALSO: https://medium.com/design-bootcamp/how-to-design-an-attractive-github-profile-readme-3618d6c53783 
+
 -->
 
 
