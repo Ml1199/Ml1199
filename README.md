@@ -43,6 +43,8 @@ I'm Mel, a Franklin University student studying for a Master of Science in Infor
   <img src="https://img.shields.io/badge/Salesforce-blue?logo=salesforce&logoColor=white&style=for-the-badge"/> <!-- SALESFORCE -->
   <img src="https://img.shields.io/badge/Figma-purple?logo=figma&logoColor=white&style=for-the-badge"/> <!-- FIGMA -->
   <img src="https://img.shields.io/badge/Lucidchart-yellow?logo=lucidchart&logoColor=white&style=for-the-badge"/> <!-- LUCIDCHART -->
+  <img src="https://img.shields.io/badge/Zoom-blue?logo=zoom&logoColor=white&style=for-the-badge"/> <!-- ZOOM -->
+  <img src="https://img.shields.io/badge/Teams-purple?logo=teams&logoColor=white&style=for-the-badge"/> <!-- TEAMS -->
   <img src="https://img.shields.io/badge/Google Sheets-green?logo=googlesheets&logoColor=white&style=for-the-badge"/> <!-- SHEETS -->
   <img src="https://img.shields.io/badge/Google Docs-blue?logo=googledocs&logoColor=white&style=for-the-badge"/> <!-- DOCS -->
   <img src="https://img.shields.io/badge/Google Slides-yellow?logo=googleslides&logoColor=white&style=for-the-badge"/> <!-- SLIDES -->
