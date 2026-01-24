@@ -77,7 +77,6 @@ For further projects showcasing these skills, visit my portfolio on:
 ## About Me
 
 ```yaml
-*
 name: Mel L
 located_in: Ohio, US
 education:
@@ -100,7 +99,6 @@ experience:
 currently learning: {"PowerBI", "React Native"}
 2026 Goals: {"Complete 15+ Projects and learn at least 5 new technologies."}
 hobbies: {"Gaming", "Reading", "Bookbinding", "Hiking", "Art", "Digital Design", "Volunteering" }
-*
 ```
 
 
