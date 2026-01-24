@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 I'm Mel, a Franklin University student studying for a Master of Science in Information Systems. My goal is to contribute to teams by offering clarity from complexity, with the tools and communication skills to make insights actionable. With strong experience in Data Analytics, Project Management, Customer Research, and Business Operations, I enjoy uncovering insights from data to solve real business problems. I want to deliver actionable insights that drive informed decision-making while building a strong foundation in both data-driven decision making, business operations and data storytelling.
 
-## Technical Tools and Skills 
+## Technical Tools 
 
 <div id="badges">
   <img height="50" src="https://camo.githubusercontent.com/17f8c6b5aea674b3a28cfb961815b469b4a398f0c584d82d4c9af79c2975e5da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f722d2532333237364443332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d72266c6f676f436f6c6f723d7768697465"/>
@@ -54,9 +54,17 @@ I'm Mel, a Franklin University student studying for a Master of Science in Infor
   <img src="https://img.shields.io/badge/Windows Powershell-blue?logo=powershell&logoColor=white&style=for-the-badge"/> <!-- WINDOWS POWERSHELL -->
   <img src="https://img.shields.io/badge/HTML-darkorange?logo=html&logoColor=white&style=for-the-badge"/> <!-- HTML -->
   <img src="https://img.shields.io/badge/C-blue?logo=c&logoColor=white&style=for-the-badge"/> <!-- C PROGRAMMING -->
+  <img src="https://img.shields.io/badge/React Native-blue?logo=reactnative&logoColor=white&style=for-the-badge"/> <!-- REACT NATIVE -->
+  <img src="https://img.shields.io/badge/JavaScript-blue?logo=javascript&logoColor=white&style=for-the-badge"/> <!-- JavaScript -->
 </div>
 
+## Skills
 
+- **Business Analysis:** Requirement Gathering, Problem Framing, Stakeholder Communication, SDLC Documentation, Use Case Development, System Planning & Analysis, Business & Functional Requirements Gathering, Data Integration Planning, Business and Technical Communication, Project Management
+- **Customer Experience:** Wireframe Design, Website Prototype Design, Customer Interviews, Customer Research
+- **Data Analysis:** Datasets, Data Analysis, Data Visualization, Pivot Tables, Data Cleaning
+- **Soft Skills:** Critical Thinking, Problem Solving, Cross-functional Collaboration, Project Management, Written Communication, Verbal Communication, Stakeholder Engagement, Consumer Engagement
+- **Additional Technical Skills:** Ad Hoc Queries, Technical Documentation, Troubleshooting
 
 ## Find Me At ##
 
