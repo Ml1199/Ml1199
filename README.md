@@ -39,7 +39,7 @@ I'm Mel, a Franklin University student studying for a Master of Science in Infor
   <img src="https://img.shields.io/badge/Excel-darkgreen?logo=excel&logoColor=white&style=for-the-badge"/> <!-- EXCEL -->
   <img src="https://img.shields.io/badge/Word-darkblue?logo=word&logoColor=white&style=for-the-badge"/> <!-- SHEETS -->
   <img src="https://img.shields.io/badge/Microsoft Office-darkred?logo=microsoftoffice&logoColor=white&style=for-the-badge"/> <!-- Microsoft OFFICE -->
-  <img src="https://img.shields.io/badge/VSCode-darkblue?logo=vscode&logoColor=white&style=for-the-badge"/> <!-- VS CODE -->
+  <img src="https://img.shields.io/badge/Visual Studio Code-darkblue?logo=visualstudiocode&logoColor=white&style=for-the-badge"/> <!-- VS CODE -->
   <img src="https://img.shields.io/badge/Windows Terminal-darkgrey?logo=windowsterminal&logoColor=white&style=for-the-badge"/> <!-- WINDOWS TERMINAL -->
   <img src="https://img.shields.io/badge/Salesforce-blue?logo=salesforce&logoColor=white&style=for-the-badge"/> <!-- SALESFORCE -->
   <img src="https://img.shields.io/badge/Figma-purple?logo=figma&logoColor=white&style=for-the-badge"/> <!-- FIGMA -->
