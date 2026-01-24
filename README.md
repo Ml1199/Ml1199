@@ -34,6 +34,8 @@ I'm Mel, a Franklin University student studying for a Master of Science in Infor
   <img src="https://img.shields.io/badge/Tableau-orange?logo=tableau&logoColor=white&style=for-the-badge"/> <!-- TABLEAU -->
   <img src="https://img.shields.io/badge/Jira-darkblue?logo=jira&logoColor=white&style=for-the-badge"/> <!-- JIRA -->
   <img src="https://img.shields.io/badge/HTML-darkorange?logo=html&logoColor=white&style=for-the-badge"/> <!-- HTML -->
+  <img src="https://img.shields.io/badge/C-blue?logo=c&logoColor=white&style=for-the-badge"/> <!-- C PROGRAMMING -->
+  <img src="https://img.shields.io/badge/R-darkblue?logo=r&logoColor=white&style=for-the-badge"/> <!-- R PROGRAMMING -->
 </div>
 
 
