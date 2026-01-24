@@ -20,8 +20,15 @@ I'm Mel, a Franklin University student studying for a Master of Science in Infor
 
 ## Technical Tools and Skills 
 
+https://upload.vectorlogo.zone/logos/tableau/images/113a311a-6d5d-4b7e-9193-79807e4844e3.svg  
+
+<!--
+
 - **Business Analysis:** Requirement Gathering, Problem Framing, Stakeholder Communication, SDLC Documentation, Use Case Development, System Planning & Analysis, Business & Functional Requirements Gathering, Data Integration Planning, Business and Technical Communication, Lucidchart, Project Management, Microsoft Word
 - **Customer Experience:** Figma, Wireframe Design, Website Prototype Design, Customer Interviews, Customer Research
 - **Data Analysis:** Microsoft Excel, Tableau, Datasets, Data Analysis, Data Visualization, MySQL, SQLite, Python Programming, R Programming, SQL Programming, Pivot Tables, Data Cleaning
 - **Soft Skills:** Critical Thinking, Problem Solving, Cross-functional Collaboration, Project Management, Written Communication, Verbal Communication, Stakeholder Engagement, Consumer Engagement
 - **Additional Technical Skills and Tools:** Figma, Salesforce, Ad Hoc Queries, Google Platforms, GitHub, Technical Documentation, Troubleshooting, JavaScript, React Native, HTML, C++
+
+--> 
+
