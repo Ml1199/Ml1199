@@ -22,6 +22,10 @@ I'm Mel, a Franklin University student studying for a Master of Science in Infor
 
 https://upload.vectorlogo.zone/logos/tableau/images/113a311a-6d5d-4b7e-9193-79807e4844e3.svg  
 
+<a href="https://www.linkedin.com/in/mmelanielee/">
+  <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21~bgwhite.svg"/>
+</a>
+
 <!--
 
 - **Business Analysis:** Requirement Gathering, Problem Framing, Stakeholder Communication, SDLC Documentation, Use Case Development, System Planning & Analysis, Business & Functional Requirements Gathering, Data Integration Planning, Business and Technical Communication, Lucidchart, Project Management, Microsoft Word
