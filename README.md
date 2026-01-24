@@ -54,7 +54,6 @@ I'm Mel, a Franklin University student studying for a Master of Science in Infor
   <img src="https://img.shields.io/badge/Windows Powershell-blue?logo=powershell&logoColor=white&style=for-the-badge"/> <!-- WINDOWS POWERSHELL -->
   <img src="https://img.shields.io/badge/HTML-darkorange?logo=html&logoColor=white&style=for-the-badge"/> <!-- HTML -->
   <img src="https://img.shields.io/badge/C-blue?logo=c&logoColor=white&style=for-the-badge"/> <!-- C PROGRAMMING -->
-  <img src="https://img.shields.io/badge/React Native-blue?logo=reactnative&logoColor=white&style=for-the-badge"/> <!-- REACT NATIVE -->
   <img src="https://img.shields.io/badge/JavaScript-blue?logo=javascript&logoColor=white&style=for-the-badge"/> <!-- JavaScript -->
 </div>
 
