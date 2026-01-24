@@ -62,9 +62,15 @@ I'm Mel, a Franklin University student studying for a Master of Science in Infor
 </a>
 
 
+## Connect With Me ##
+
 <a href="https://www.linkedin.com/in/mmelanielee/">
   <img height="50" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
 </a>
+<a href="https://public.tableau.com/app/profile/mel.l7600/vizzes">
+  <img height="50" src="https://img.shields.io/badge/Tableau Public-lightblue?logo=tableau&logoColor=white&style=for-the-badge"/>
+</a>
+
 
 
 <!--
