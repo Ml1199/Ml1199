@@ -62,16 +62,20 @@ I'm Mel, a Franklin University student studying for a Master of Science in Infor
 </a>
 
 
-## Connect With Me ##
+## Find Me At ##
 
 <a href="https://www.linkedin.com/in/mmelanielee/">
   <img height="50" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
 </a>
 <a href="https://public.tableau.com/app/profile/mel.l7600/vizzes">
-  <img height="50" src="https://img.shields.io/badge/Tableau Public-lightblue?logo=tableau&logoColor=white&style=for-the-badge"/>
+  <img height="50" src="https://img.shields.io/badge/Tableau Public-orange?logo=tableau&logoColor=white&style=for-the-badge"/>
 </a>
-
-
+<a href="https://github.com/Ml1199">
+  <img height="50" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://chain-sunset-07a.notion.site/Melanie-Lee-Portfolio-213ec56650ae8063a702ce8f5d6e08dc">
+  <img height="50" src="https://img.shields.io/badge/Notion-black?logo=notion&logoColor=white&style=for-the-badge"/>
+</a>
 
 <!--
 
