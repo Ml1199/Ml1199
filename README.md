@@ -13,12 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
-I'm Mel, a Franklin University student studying for a Master of Science in Information Systems. My goal is to contribute to teams by offering clarity from complexity, with the tools and communication skills to make insights actionable. With strong experience in Data Analytics, Project Management, Customer Research, and Business Operations, I enjoy uncovering insights from data to solve real business problems. I want to deliver actionable insights that drive informed decision-making while building a strong foundation in both data-driven decision making, business operations and data storytelling.
-
-## Technical Tools and Skills 
 
 
 <img height="50" src="https://upload.vectorlogo.zone/logos/tableau/images/113a311a-6d5d-4b7e-9193-79807e4844e3.svg"/>
@@ -26,13 +20,24 @@ I'm Mel, a Franklin University student studying for a Master of Science in Infor
 
 <img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"/>
 
-<img height="50" src="https://camo.githubusercontent.com/43de341c9b8b09764cc735349316e938d77a1da3751ae8bfaec066e3c3450bec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534"/> <img height="50" src="https://camo.githubusercontent.com/17f8c6b5aea674b3a28cfb961815b469b4a398f0c584d82d4c9af79c2975e5da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f722d2532333237364443332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d72266c6f676f436f6c6f723d7768697465"/>
+-->
+
+
+I'm Mel, a Franklin University student studying for a Master of Science in Information Systems. My goal is to contribute to teams by offering clarity from complexity, with the tools and communication skills to make insights actionable. With strong experience in Data Analytics, Project Management, Customer Research, and Business Operations, I enjoy uncovering insights from data to solve real business problems. I want to deliver actionable insights that drive informed decision-making while building a strong foundation in both data-driven decision making, business operations and data storytelling.
+
+## Technical Tools and Skills 
+
+<div id="badges">
+  <img height="50" src="https://camo.githubusercontent.com/43de341c9b8b09764cc735349316e938d77a1da3751ae8bfaec066e3c3450bec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534"/> 
+  <img height="50" src="https://camo.githubusercontent.com/17f8c6b5aea674b3a28cfb961815b469b4a398f0c584d82d4c9af79c2975e5da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f722d2532333237364443332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d72266c6f676f436f6c6f723d7768697465"/>
+  <img src="https://img.shields.io/badge/GitHub-Black?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-darkblue?logo=tableau&logoColor=white&style=for-the-badge"/>
+</div>
 
 
 
 
-
-<a href="https://www.linkedin.com/in/mmelanielee/">
+<a href="https://www.linkedin.com/in/mmelanielee/"> <!-- TO CREATE IMAGE ICON: USE <img src=:https://img.shields.io/badge/(nameofplatform(ex:Youtube))-(colorofplatform(ex:Red))?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>  AND THATS IT, I used Youtube as the example so right after the badge put = badge/Youtube-Red?style= and change the badge&logo=youtube to twitter or linkedin or whatever else u wanna use. -->
   <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21~bgwhite.svg"/>
 </a>
 
