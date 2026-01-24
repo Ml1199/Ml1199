@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm Mel, a Franklin University student studying for a Master of Science in Information Systems. My goal is to contribute to teams by offering clarity from complexity, with the tools and communication skills to make insights actionable. With strong experience in Data Analytics, Project Management, Customer Research, and Business Operations, I enjoy uncovering insights from data to solve real business problems. I want to deliver actionable insights that drive informed decision-making while building a strong foundation in both data-driven decision making, business operations and data storytelling.
+I'm Melanie Lee, a Franklin University student studying for a Master of Science in Information Systems. My goal is to contribute to teams by offering clarity from complexity, with the tools and communication skills to make insights actionable. With strong experience in Data Analytics, Project Management, Customer Research, and Business Operations, I enjoy uncovering insights from data to solve real business problems. I want to deliver actionable insights that drive informed decision-making while building a strong foundation in both data-driven decision making, business operations and data storytelling.
 
 ## Technical Tools 
 
