@@ -66,7 +66,7 @@ I'm Mel, a Franklin University student studying for a Master of Science in Infor
 - **Soft Skills:** Critical Thinking, Problem Solving, Cross-functional Collaboration, Project Management, Written Communication, Verbal Communication, Stakeholder Engagement, Consumer Engagement
 - **Additional Technical Skills:** Ad Hoc Queries, Technical Documentation, Troubleshooting
 
-For further projects showcasing these skills, visit my portfolio on:
+For further projects showcasing these skills, visit my portfolio on:  
     <a href="https://chain-sunset-07a.notion.site/Melanie-Lee-Portfolio-213ec56650ae8063a702ce8f5d6e08dc">
     <img height="50" src="https://img.shields.io/badge/Notion-black?logo=notion&logoColor=white&style=for-the-badge"/>
     </a>
