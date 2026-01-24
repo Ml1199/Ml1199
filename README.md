@@ -56,27 +56,21 @@ I'm Mel, a Franklin University student studying for a Master of Science in Infor
 
 
 
-
-<a href="https://www.linkedin.com/in/mmelanielee/"> <!-- TO CREATE IMAGE ICON: USE <img src=:https://img.shields.io/badge/(nameofplatform(ex:Youtube))-(colorofplatform(ex:Red))?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>  AND THATS IT, I used Youtube as the example so right after the badge put = badge/Youtube-Red?style= and change the badge&logo=youtube to twitter or linkedin or whatever else u wanna use. -->
-  <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21~bgwhite.svg"/>
-</a>
-
-
 ## Find Me At ##
 
 <div id="socials">
-  <a href="https://www.linkedin.com/in/mmelanielee/">
+    <a href="https://www.linkedin.com/in/mmelanielee/">
     <img height="50" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/Ml1199">
+    </a>
+    <a href="https://github.com/Ml1199">
     <img height="50" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://public.tableau.com/app/profile/mel.l7600/vizzes">
+    </a>
+    <a href="https://public.tableau.com/app/profile/mel.l7600/vizzes">
     <img height="50" src="https://img.shields.io/badge/Tableau Public-orange?logo=tableau&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://chain-sunset-07a.notion.site/Melanie-Lee-Portfolio-213ec56650ae8063a702ce8f5d6e08dc">
+    </a>
+    <a href="https://chain-sunset-07a.notion.site/Melanie-Lee-Portfolio-213ec56650ae8063a702ce8f5d6e08dc">
     <img height="50" src="https://img.shields.io/badge/Notion-black?logo=notion&logoColor=white&style=for-the-badge"/>
-  </a>
+    </a>
 </div>
 
 <!--
