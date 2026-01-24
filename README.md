@@ -22,7 +22,7 @@ I'm Mel, a Franklin University student studying for a Master of Science in Infor
 
 
 <img height="50" src="https://upload.vectorlogo.zone/logos/tableau/images/113a311a-6d5d-4b7e-9193-79807e4844e3.svg"/>
-<img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21~bgwhite.svg"/>
+<img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"/>
 
 <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21~bgwhite.svg"/>
 
