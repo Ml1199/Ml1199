@@ -51,7 +51,7 @@ I'm Mel, a Franklin University student studying for a Master of Science in Infor
   <img src="https://img.shields.io/badge/Google Sheets-green?logo=googlesheets&logoColor=white&style=for-the-badge"/> <!-- SHEETS -->
   <img src="https://img.shields.io/badge/Google Docs-blue?logo=googledocs&logoColor=white&style=for-the-badge"/> <!-- DOCS -->
   <img src="https://img.shields.io/badge/Google Slides-yellow?logo=googleslides&logoColor=white&style=for-the-badge"/> <!-- SLIDES -->
-  <img src="https://img.shields.io/badge/Windows Powershell-orange?logo=powershell&logoColor=white&style=for-the-badge"/> <!-- WINDOWS POWERSHELL -->
+  <img src="https://img.shields.io/badge/Windows Powershell-deepblue?logo=powershell&logoColor=white&style=for-the-badge"/> <!-- WINDOWS POWERSHELL -->
   <img src="https://img.shields.io/badge/HTML-darkorange?logo=html&logoColor=white&style=for-the-badge"/> <!-- HTML -->
   <img src="https://img.shields.io/badge/C-blue?logo=c&logoColor=white&style=for-the-badge"/> <!-- C PROGRAMMING -->
 </div>
