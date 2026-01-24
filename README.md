@@ -20,9 +20,9 @@ I'm Mel, a Franklin University student studying for a Master of Science in Infor
 
 ## Technical Tools and Skills 
 
-https://upload.vectorlogo.zone/logos/tableau/images/113a311a-6d5d-4b7e-9193-79807e4844e3.svg  
 
-  <img height="50" src="https://upload.vectorlogo.zone/logos/tableau/images/113a311a-6d5d-4b7e-9193-79807e4844e3.svg"/>
+<img height="50" src="https://upload.vectorlogo.zone/logos/tableau/images/113a311a-6d5d-4b7e-9193-79807e4844e3.svg"/>
+<img height="50" src="https://svg-viewer.fileformat.info/view.html?url=https://www.vectorlogo.zone/logos/python/python-ar21~bgwhite.svg&zoom=max&backUrl=https://www.vectorlogo.zone/logos/python/index.html&backText=Return+to+VectorLogoZone"/>
 
 
 <a href="https://www.linkedin.com/in/mmelanielee/">
