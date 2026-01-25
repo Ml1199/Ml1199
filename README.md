@@ -58,7 +58,6 @@ I'm Melanie Lee, a Franklin University student studying for a Master of Science 
   <img src="https://img.shields.io/badge/Google Slides-yellow?logo=googleslides&logoColor=white&style=for-the-badge"/> <!-- SLIDES -->
   <img src="https://img.shields.io/badge/Windows Powershell-blue?logo=powershell&logoColor=white&style=for-the-badge"/> <!-- WINDOWS POWERSHELL -->
   <img src="https://img.shields.io/badge/HTML-darkorange?logo=html&logoColor=white&style=for-the-badge"/> <!-- HTML -->
-  <img src="https://img.shields.io/badge/C-blue?logo=c&logoColor=white&style=for-the-badge"/> <!-- C PROGRAMMING -->
   <img src="https://img.shields.io/badge/JavaScript-blue?logo=javascript&logoColor=white&style=for-the-badge"/> <!-- JavaScript -->
 </div>
 
